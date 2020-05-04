@@ -7,7 +7,7 @@ import sys
 pygame.init()
 # print(os.listdir('../images/'))
 
-
+screen = pygame.display.set_mode((600, 400))
 pygame.display.set_caption("Layout Tagger")
 clock = pygame.time.Clock()
 
