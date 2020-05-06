@@ -21,3 +21,6 @@
 ![Output File](https://github.com/anuda/Tag_images/blob/master/taggeddownload.jpeg.png)
 
 
+Credits:
+Inspired from 
+https://pythonprogramming.altervista.org/pygame-draw-app-with-animation/
