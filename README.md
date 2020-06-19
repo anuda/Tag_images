@@ -16,9 +16,7 @@
 
 ![Select File](https://github.com/anuda/Tag_images/blob/master/tool2.png)
 
-- Tagged Image
 
-![Output File](https://github.com/anuda/Tag_images/blob/master/taggeddownload.jpeg.png)
 
 
 Thanks & Credits:
